@@ -7,5 +7,6 @@
 
 ### Gif
 [Gif](assets/Screenrecorder--1651349621881.gif)
+<img src="https://github.com/ZurraJanai/clean_carousel/blob/master/assets/Screenrecorder--1651349621881.gif">
 
 Enjoy.
