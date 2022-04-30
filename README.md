@@ -1,16 +1,11 @@
-# clean_carousel
+# Simple Carousel 
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+![image1](https://i.postimg.cc/tCN1pxxb/Screenshot-2022-04-30-17-16-12-541-com-example-carousel-test-1.jpg)
+![image2](https://i.postimg.cc/F150858x/Screenshot-2022-04-30-17-16-19-036-com-example-carousel-test-1.jpg)
 
-This project is a starting point for a Flutter application.
+### Gif
+[Gif](https://github.com/ZurraJanai/clean_carousel/blob/master/assets/the_gif.gif)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enjoy.
